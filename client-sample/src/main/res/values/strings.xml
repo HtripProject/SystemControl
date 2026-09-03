@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SystemControl Client Sample</string>
+    <string name="connect">连接服务</string>
+    <string name="show_toast">调用服务端 Toast</string>
+    <string name="status_disconnected">未连接</string>
+    <string name="status_connecting">连接中…</string>
+    <string name="status_connected">已连接</string>
+    <string name="status_failed">连接失败：%1$s</string>
+    <string name="service_toast_message">Toast 请求已由服务端执行</string>
+</resources>
